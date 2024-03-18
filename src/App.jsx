@@ -109,7 +109,6 @@ export const App = () => {
               )}
           </main>
         </AppWrapper>
-        {//<Footer logo={getConfig().LOGO_POWERED_BY_OPEN_EDX_URL_SVG} />}
         <ZendeskFab />
       </div>
     </>
