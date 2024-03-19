@@ -21,12 +21,6 @@ $input-focus-box-shadow: $input-box-shadow; // hack to get upgrade to paragon 4.
   color: black;
 }
 
-.btn-primary {
-  background-color: #319f9b;
-  border-color: #319f9b;
-  color: #fff;
-}
-
 #root {
   // Removing a odd 1.5 scaling on checkboxes.:
   input[type=checkbox] {
